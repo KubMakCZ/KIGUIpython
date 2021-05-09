@@ -1,8 +1,6 @@
-# KIGUIpython
+# KI/GUI Python Dashboard 
 
-#Python Dashboard
-
-##jednoduche GUI pro ovládání
+##j ednoduche GUI pro ovládání
 
 Jedná se o jednoduchou aplikaci k představení malého programu na ovladaní některýchCancel changes
 činností na Rasbperry Pi (RPi) za pomocí malé dotykové obrazovky.
