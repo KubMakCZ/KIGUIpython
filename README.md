@@ -1,6 +1,6 @@
 # KI/GUI Python Dashboard (Work In Progress)
 
-##j ednoduche GUI pro ovládání
+## jednoduche GUI pro ovládání
 
 Jedná se o jednoduchou aplikaci k představení malého programu na ovladaní některýchCancel changes
 činností na Rasbperry Pi (RPi) za pomocí malé dotykové obrazovky.
