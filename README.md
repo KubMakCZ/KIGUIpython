@@ -24,8 +24,9 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 ## Potřebné knihovny
 * TKinter - v PyCharmu EasyTkinter
 
+!!!UPOZORNĚNÍ!!! není potřeba mít všechny balíčky co jsou v obrazku z PyCharm
 ![Python Intepret](https://raw.githubusercontent.com/KubMakCZ/KIGUIpython/main/Screenshot_184.png)
-
+!!!UPOZORNĚNÍ!!! není potřeba mít všechny balíčky co jsou v obrazku z PyCharm
 ------
 + Děkuji předem a snaď se vám bude libit můj projekt
 + student 3. ročníku Aplikované Informatiky na KI PřF UJEP
