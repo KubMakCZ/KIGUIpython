@@ -28,7 +28,7 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 
 
 !!!UPOZORNĚNÍ!!! není potřeba mít všechny balíčky co jsou v obrazku z PyCharm
-![Python Intepret](https://raw.githubusercontent.com/KubMakCZ/KIGUIpython/main/Screenshot_184.png)
+![Python Intepreter](https://raw.githubusercontent.com/KubMakCZ/KIGUIpython/main/Screenshot_184.png)
 !!!UPOZORNĚNÍ!!! není potřeba mít všechny balíčky co jsou v obrazku z PyCharm
 
 ------
