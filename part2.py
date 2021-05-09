@@ -1,16 +1,11 @@
 import tkinter as tk
 
-window = tk.Tk()
+win = tk.Tk()
+win.title("Dynamically Resize Buttons")
+win.geometry("700x500")
 
-for i in range(3):
-    for j in range(3):
-        frame = tk.Frame(
-            master=window,
-            relief=tk.RAISED,
-            borderwidth=1
-        )
-        frame.grid(row=i, column=j)
-        label = tk.Label(master=frame, text=f"Row {i}\nColumn {j}")
-        label.pack()
+tk.Grid.rowconfigure(win, 0,weight=1)
+tk.Grid.columnconfigure(win,0,weight=1)
 
-window.mainloop()
+
+win.mainloop()
