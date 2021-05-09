@@ -1,4 +1,4 @@
-# KI/GUI Python Dashboard 
+# KI/GUI Python Dashboard (Work In Progress)
 
 ##j ednoduche GUI pro ovládání
 
