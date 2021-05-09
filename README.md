@@ -23,6 +23,7 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 ## Potřebné knihovny
 * EasyTkinter - TKinter - GUI framework
 * OS - volání systémových příkazů
+* sys - Specifické parametry a funkce O 
 * python3-nmap - nmap - (NetworkMAP) skenování sítě ()
 
 
