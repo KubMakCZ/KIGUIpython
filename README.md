@@ -13,8 +13,9 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 * počasí
 * skenování síte
 * vypínaní zapínání
-    * pc
-    * svetel
+    * PC
+    * Senzoru
+    * Programu v PC
 * cteni hodnot ze senzoru
 * monitoring systému
 * text editor
