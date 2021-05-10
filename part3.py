@@ -27,6 +27,8 @@ def save_file():
         output_file.write(text)
     window.title(f"Text Editor Application - {filepath}")
 
+
+### Hlavní část programu
 window = tk.Tk()
 window.title("Text Editor")
 window.rowconfigure(0, minsize=800, weight=1)
