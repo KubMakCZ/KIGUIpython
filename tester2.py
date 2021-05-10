@@ -1,6 +1,5 @@
 import tkinter as tk
 
-
 class Fullscreen_Example:
     def __init__(self):
         self.window = tk.Tk()

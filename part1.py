@@ -1,3 +1,5 @@
+### Jednoduchy program pro vyzkoušení a setaveni zakladniho "okna" i se zjistenim systemu
+
 import tkinter as tk
 import os
 

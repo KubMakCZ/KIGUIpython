@@ -1,3 +1,4 @@
+# vytvoreni zakladniho dashboardu s tlacitky
 import tkinter as tk
 import sys
 

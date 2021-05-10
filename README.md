@@ -46,6 +46,8 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 ## files
 #### Hlavní soubory pro prezentaci
 - part1.py - jednoduche vypsani OS
+- part2.py - zakladní dashboard s tlačítky
+- part3.py - text editor
 
 ### Testovací soubory
 + tester.py - testovaní MultiWindow
