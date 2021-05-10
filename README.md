@@ -20,11 +20,17 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 * monitoring systému
 * text editor
 
-## Potřebné knihovny
+## Potřebné knihovny + programy
+
+#### knihovny
+bude potřeba stahnout a nainstalovat 
+- [NMAP](https://nmap.org/download.html) - [win32stable](https://nmap.org/dist/nmap-7.91-setup.exe) - aplikace spoustejici se s knihovnou python-nmap
+
+#### knihovny
 * EasyTkinter - TKinter - GUI framework
 * OS - volání systémových příkazů
 * sys - Specifické parametry a funkce O 
-* python3-nmap - nmap - (NetworkMAP) skenování sítě ()
+* python-nmap - nmap - (NetworkMAP) skenování sítě (UPOZORNENÍ = nestahovat knihonu "nmap", jedna se o uplne jinou knihovnu (knihovna na numbers map))
 
 
 !!!UPOZORNĚNÍ!!! není potřeba mít všechny balíčky co jsou v obrazku z PyCharm
@@ -53,6 +59,10 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 + tester.py - testovaní MultiWindow
 + tester2.py - testovani Fullscreen části
 + tester3.py - testovani roztažení tlačítek
++ tester4.py - testovani rozlozeni v Grid systemu
++ tester5.py - skenovani protocolu na localhostu
++ tester6.py - skenovani síte
++ tester7.py - vypis do okna 
 
 ------
 + Děkuji předem a snaď se vám bude libit můj projekt

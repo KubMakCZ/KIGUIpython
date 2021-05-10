@@ -5,7 +5,7 @@ from tkinter.filedialog import askopenfilename, asksaveasfilename
 
 def open_file():
     filepath = askopenfilename(
-        filetypes=[("Text Files", "*.txt"), ("All Files", "*.*")]
+        filetypes=[("Textovy soubor", "*.txt"),("bat soubory", "*.bat"), ("All Files", "*.*")]
     )
     if not filepath:
         return
@@ -18,7 +18,7 @@ def open_file():
 def save_file():
     filepath = asksaveasfilename(
         defaultextension="txt",
-        filetypes=[("Text Files", "*.txt"), ("All Files", "*.*")],
+        filetypes=[("Textovy soubor", "*.txt"),("cmd soubory", "*.bat"), ("All Files", "*.*")],
     )
     if not filepath:
         return

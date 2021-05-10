@@ -13,7 +13,7 @@ tk.Grid.columnconfigure(win,0,weight=1)
 
 b1= tk.Button(win, text= "1", command=lambda: print("1"))
 b2= tk.Button(win, text= "2", command=lambda: sys.exit(0))
-b3= tk.Button(win, text= "3", command=lambda: print("4"))
+b3= tk.Button(win, text= "3", command=lambda: print("3"))
 b4= tk.Button(win, text= "4", command=lambda: print("4"))
 b5= tk.Button(win, text= "5", command=lambda: print("5"))
 b6= tk.Button(win, text= "6", command=lambda: print("6"))
