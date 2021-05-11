@@ -1,5 +1,5 @@
 import tkinter as tk
-import os, sys
+import os, sys, time
 
 # ###############
 #  Global Metody
