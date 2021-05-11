@@ -36,13 +36,13 @@ lable_3.place(x=62,y=240)
 lable_5 = Label(root,text="Description : ",width = 20,bg='white',font=("bold",10),fg='blue')
 lable_5.place(x=62,y=260)
 
-lable_temp = Label(root,text="...",width = 5,bg='white',font=("bold",10),fg='blue')
+lable_temp = Label(root,text="...",width = 10,bg='white',font=("bold",10),fg='blue')
 lable_temp.place(x=192,y=220)
 
-lable_pres = Label(root,text="...",width = 5,bg='white',font=("bold",10),fg='blue')
+lable_pres = Label(root,text="...",width = 10,bg='white',font=("bold",10),fg='blue')
 lable_pres.place(x=192,y=240)
 
-lable_desc = Label(root,text="...",width = 5,bg='white',font=("bold",10),fg='blue')
+lable_desc = Label(root,text="...",width = 10,bg='white',font=("bold",10),fg='blue')
 lable_desc.place(x=192,y=260)
 
 
