@@ -78,7 +78,7 @@ def getTemp():
 
 Button(root,text="Submit",width=10,bg='brown',fg='white',command=getTemp).place(x=122,y=170)
 
-lable_unit = Label(root,text="Teplota je v C & Pressure in mb",width = 35,bg='white',font=("bold",10),fg='brown')
+lable_unit = Label(root,text="Teplota je v C & Tlak je v mb (milibar)",width = 35,bg='white',font=("bold",10),fg='brown')
 lable_unit.place(x=22,y=290)
 
 mainloop()
