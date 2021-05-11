@@ -24,13 +24,14 @@ a jako Fullscreen aplikace na Linuxu (RPi používa Rasbperry Pi OS postavený n
 
 #### knihovny
 bude potřeba stahnout a nainstalovat 
-- [NMAP](https://nmap.org/download.html) - [win32stable](https://nmap.org/dist/nmap-7.91-setup.exe) - aplikace spoustejici se s knihovnou python-nmap
+- [NMAP](https://nmap.org/download.html) - [win32stable](https://nmap.org/dist/nmap-7.91-setup.exe) - aplikace spoustejici se s knihovnou python-nmap [Ukazky kodu](https://www.programcreek.com/python/example/92225/nmap.PortScanner)
 
 #### knihovny
 * EasyTkinter - TKinter - GUI framework
 * OS - volání systémových příkazů
 * sys - Specifické parametry a funkce O 
 * python-nmap - nmap - (NetworkMAP) skenování sítě (UPOZORNENÍ = nestahovat knihonu "nmap", jedna se o uplne jinou knihovnu (knihovna na numbers map))
+* python3-nmap - lepsi nmap pro python3
 
 
 !!!UPOZORNĚNÍ!!! není potřeba mít všechny balíčky co jsou v obrazku z PyCharm
