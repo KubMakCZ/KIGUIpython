@@ -58,13 +58,16 @@ bude potřeba stahnout a nainstalovat
 - part4.py - nmap sken site v okne (pripraveno na implementovani do dashboardu)
 
 ### Testovací soubory
-+ tester.py - testovaní MultiWindow
++ tester.py - testovaní více oken
 + tester2.py - testovani Fullscreen části
 + tester3.py - testovani roztažení tlačítek
 + tester4.py - testovani rozlozeni v Grid systemu
 + nmap-scan.py - skenovani protocolu na localhostu
 + tester5.py - skenovani síte
 + tester6.py - vypis do okna 
++ tester7.py - aplikace na pocasi
++ tester8.py - multiwindow
++ tester9.py - testovaní více oken
 
 ------
 + Děkuji předem a snaď se vám bude libit můj projekt
