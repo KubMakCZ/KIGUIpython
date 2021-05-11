@@ -3,8 +3,8 @@ import nmap                         # import nmap.py module
 nmap = nmap.PortScanner()
 host = '127.0.0.1'
 nmap.scan(host, '1-1024')
-print (nmap.command_line())
-print (nmap.scaninfo())
+print(nmap.command_line())
+print(nmap.scaninfo())
 
 for host in nmap.all_hosts():
     print('Host : %s (%s)' % (host, nmap[host].hostname()))

@@ -55,15 +55,16 @@ bude potřeba stahnout a nainstalovat
 - part1.py - jednoduche vypsani OS
 - part2.py - zakladní dashboard s tlačítky
 - part3.py - text editor
+- part4.py - nmap sken site v okne (pripraveno na implementovani do dashboardu)
 
 ### Testovací soubory
 + tester.py - testovaní MultiWindow
 + tester2.py - testovani Fullscreen části
 + tester3.py - testovani roztažení tlačítek
 + tester4.py - testovani rozlozeni v Grid systemu
-+ tester5.py - skenovani protocolu na localhostu
-+ tester6.py - skenovani síte
-+ tester7.py - vypis do okna 
++ nmap-scan.py - skenovani protocolu na localhostu
++ tester5.py - skenovani síte
++ tester6.py - vypis do okna 
 
 ------
 + Děkuji předem a snaď se vám bude libit můj projekt
