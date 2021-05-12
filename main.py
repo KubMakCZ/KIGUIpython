@@ -1,5 +1,5 @@
 import tkinter as tk
-import os, sys, time
+import os, sys, time, wakeonlan
 
 # ###############
 #  Global Metody
@@ -13,6 +13,15 @@ def osCheck():
 # Třídy
 # ###############
 
+class wakeonlan:
+
+class nmapgui:
+
+class pocasiapp:
+
+class texteditorwin:
+
+class readtempcpu:
 
 
 # ###############
