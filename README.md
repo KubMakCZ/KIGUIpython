@@ -52,6 +52,7 @@ bude potřeba stahnout a nainstalovat
 ------
 ## files
 #### Hlavní soubory pro prezentaci
+- rpigpioexample.py - Ukázka jak ovládat GPIO na RPi
 - part1.py - jednoduche vypsani OS
 - part2.py - zakladní dashboard s tlačítky
 - part3.py - text editor
@@ -68,6 +69,7 @@ bude potřeba stahnout a nainstalovat
 + tester7.py - aplikace na pocasi
 + tester8.py - multiwindow
 + tester9.py - testovaní více oken
+
 
 ------
 + Děkuji předem a snaď se vám bude libit můj projekt
