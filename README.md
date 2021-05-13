@@ -32,6 +32,7 @@ bude potřeba stahnout a nainstalovat
 * sys - Specifické parametry a funkce O 
 * python-nmap - nmap - (NetworkMAP) skenování sítě (UPOZORNENÍ = nestahovat knihonu "nmap", jedna se o uplne jinou knihovnu (knihovna na numbers map))
 * python3-nmap - lepsi nmap pro python3
+* wakeonlan - probuzení zařízení přes "Wake On Lan"
 
 
 !!!UPOZORNĚNÍ!!! není potřeba mít všechny balíčky co jsou v obrazku z PyCharm
