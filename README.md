@@ -1,6 +1,6 @@
 # Python Dashboard
 ## jednoduche GUI pro ovládání
-Jedná se o jednoduchou aplikaci k představení malého programu na ovladaní některých
+Cílem je vytvořit jednoduchou aplikaci k představení malého programu na ovladaní některých
 činností na Rasbperry Pi (RPi) za pomocí malé dotykové obrazovky.
 Program by měl být i CrossPlatform díky Pythonu (v projektu používaný 3.8). 
 Aplikace jako taková pro sestavení  by měla být funkční jako widget na OS Windows 
